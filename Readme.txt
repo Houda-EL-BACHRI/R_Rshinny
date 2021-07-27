@@ -1,3 +1,3 @@
-Veuillez trouver ci-joint le une application du modéle de Random forest sur le data "Iris", 
+Please find attached an application of the Random forest model on the "Iris" data,
 
-ainsi que la création d'une API en utilisant shinny
+as well as creating an API using shinny
